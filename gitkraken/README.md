@@ -1,7 +1,7 @@
 ## Build
 
 ```
-docker docker build -t gitkraken .
+docker build -t gitkraken .
 ```
 
 ## Run
